@@ -9,14 +9,8 @@ www.instagram.com
 cdninstagram.com
 graph.instagram.com
 i.instagram.com
-
-youtube.com
-www.youtube.com
-m.youtube.com
-youtu.be
 googlevideo.com
 ytimg.com
-youtubei.googleapis.com
 
 snapchat.com
 www.snapchat.com

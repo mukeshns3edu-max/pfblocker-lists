@@ -34,3 +34,5 @@ www.twitter.com
 x.com
 www.x.com
 twimg.com
+rentalcars.com
+www.rentalcars.com
